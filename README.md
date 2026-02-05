@@ -13,7 +13,7 @@ El proyecto cuenta con tres secciones principales: **Inicio**, **Sobre Nosotros*
 
 ---
 
-## 📸 Vistas del Sitio
+## 📸 Vistas del Sitio - https://psicologosnet.netlify.app/
 
 ### 🏠 Página de Inicio
 > Presentación general de la plataforma, propuesta de valor, beneficios para los profesionales y llamado a la acción para contacto o registro. <img width="1366" alt="Home Psicólogos" src="" />
